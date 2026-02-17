@@ -2,6 +2,7 @@
 type: homepage
 domain: ux-design
 summary: A structured UX Design learning and reference hub.
+title: UX-Vault
 ---
 # UX Design Resource Base
 
