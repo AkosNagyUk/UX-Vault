@@ -3,7 +3,6 @@ type: homepage
 domain: ux-design
 summary: A structured UX Design learning and reference hub.
 ---
-asd
 # UX Design Resource Base
 
 A structured, continuously growing knowledge base for learning and applying UX Design — from fundamentals to practical methods.
